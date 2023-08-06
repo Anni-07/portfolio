@@ -2,4 +2,4 @@
 
 <h1>AnnishPortfolio</h1>
 
-<a herf="https://anni-07.github.io/">click here</a>
+<a href="https://anni-07.github.io/">click here</a>
